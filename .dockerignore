@@ -5,6 +5,7 @@ __pycache__
 .venv
 .vscode
 .gitignore
+.github
 
 db.sqlite
 docker-compose.yml
