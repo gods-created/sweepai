@@ -1,0 +1,24 @@
+langchain
+langgraph
+langchain-ollama
+
+python-dotenv
+pydantic[email]
+loguru
+faker
+argon2-cffi
+
+SQLAlchemy
+alembic
+
+pandas
+numpy
+scikit-learn
+
+starlette
+fastapi
+python-multipart
+gunicorn
+uvicorn
+
+# python -m pip install --upgrade --no-cache-dir -r requirements.txt
