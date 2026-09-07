@@ -12,3 +12,4 @@ docker-compose.yml
 stack.yml
 /assets/temporary_files/*
 tests
+sweepai.pem
